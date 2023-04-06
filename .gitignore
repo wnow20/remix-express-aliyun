@@ -1,3 +1,5 @@
+/.s
+/.log
 node_modules
 
 /.cache
